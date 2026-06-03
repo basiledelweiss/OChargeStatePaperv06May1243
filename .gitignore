@@ -1,0 +1,58 @@
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# BibLaTeX/Biber
+*.bib.bak
+
+# MakeIndex
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+
+# Nomenclature
+*.nlo
+*.nls
+
+# TikZ/PGF
+*.dpth
+*.md5
+
+# Latexmk
+*.latexmk
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Do NOT ignore PDFs
+!*.pdf
+
+# Do NOT ignore figures
+!figs/
+!figs/**
